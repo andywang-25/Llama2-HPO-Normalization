@@ -1,2 +1,5 @@
 # LLaMA2-Fine-tuning
 Fine-tuning LLaMA 2 for rare disease concept normalization
+
+ABSTRACT:
+Clinical concept extraction and normalization from clinical narratives remain a significant challenge in rare disease research. We fine-tuned LLaMA 2, an open-source large language model (LLM) developed by Meta, using a domain-specific corpus for rare disease concept normalization. The fine-tuned model recognizes diverse sentence contexts and normalizes several types of concepts, including Human Phenotype Ontology (HPO), Online Mendelian Inheritance in Man (OMIM), and Orphanet. The HPO model (50 epochs) achieved an accuracy of 99.55% in identifying a term’s HPO ID when prompted with the original training sentences. Similarly, the OMIM and Orphanet model (30 epochs) achieved an accuracy of 98.03%. Our models exhibit robustness to minor types, can efficiently handle inputs it was not trained on, and significantly outperformed ChatGPT in a benchmark test for clinical concept normalization. Our results suggest that domain-specific LLMs enable accurate and generalizable clinical concept normalization. 
