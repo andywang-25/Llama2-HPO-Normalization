@@ -1,0 +1,4002 @@
+[
+  {
+    "input": "The Human Phenotype Ontology term All is identified by the HPO ID",
+    "output": "HP_0000001"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of body height is identified by the HPO ID",
+    "output": "HP_0000002"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Multicystic kidney dysplasia is identified by the HPO ID",
+    "output": "HP_0000003"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Mode of inheritance is identified by the HPO ID",
+    "output": "HP_0000005"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Autosomal dominant inheritance is identified by the HPO ID",
+    "output": "HP_0000006"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Autosomal recessive inheritance is identified by the HPO ID",
+    "output": "HP_0000007"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal morphology of female internal genitalia is identified by the HPO ID",
+    "output": "HP_0000008"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Functional abnormality of the bladder is identified by the HPO ID",
+    "output": "HP_0000009"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Recurrent urinary tract infections is identified by the HPO ID",
+    "output": "HP_0000010"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Neurogenic bladder is identified by the HPO ID",
+    "output": "HP_0000011"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Urinary urgency is identified by the HPO ID",
+    "output": "HP_0000012"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hypoplasia of the uterus is identified by the HPO ID",
+    "output": "HP_0000013"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the bladder is identified by the HPO ID",
+    "output": "HP_0000014"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Bladder diverticulum is identified by the HPO ID",
+    "output": "HP_0000015"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Urinary retention is identified by the HPO ID",
+    "output": "HP_0000016"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Nocturia is identified by the HPO ID",
+    "output": "HP_0000017"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Urinary hesitancy is identified by the HPO ID",
+    "output": "HP_0000019"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Urinary incontinence is identified by the HPO ID",
+    "output": "HP_0000020"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Megacystis is identified by the HPO ID",
+    "output": "HP_0000021"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal male internal genitalia morphology is identified by the HPO ID",
+    "output": "HP_0000022"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Inguinal hernia is identified by the HPO ID",
+    "output": "HP_0000023"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Prostatitis is identified by the HPO ID",
+    "output": "HP_0000024"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Functional abnormality of male internal genitalia is identified by the HPO ID",
+    "output": "HP_0000025"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Male hypogonadism is identified by the HPO ID",
+    "output": "HP_0000026"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Azoospermia is identified by the HPO ID",
+    "output": "HP_0000027"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Cryptorchidism is identified by the HPO ID",
+    "output": "HP_0000028"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Testicular atrophy is identified by the HPO ID",
+    "output": "HP_0000029"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Testicular gonadoblastoma is identified by the HPO ID",
+    "output": "HP_0000030"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Epididymitis is identified by the HPO ID",
+    "output": "HP_0000031"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of male external genitalia is identified by the HPO ID",
+    "output": "HP_0000032"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Ambiguous genitalia, male is identified by the HPO ID",
+    "output": "HP_0000033"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hydrocele testis is identified by the HPO ID",
+    "output": "HP_0000034"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal testis morphology is identified by the HPO ID",
+    "output": "HP_0000035"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal penis morphology is identified by the HPO ID",
+    "output": "HP_0000036"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Male pseudohermaphroditism is identified by the HPO ID",
+    "output": "HP_0000037"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Epispadias is identified by the HPO ID",
+    "output": "HP_0000039"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Long penis is identified by the HPO ID",
+    "output": "HP_0000040"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Chordee is identified by the HPO ID",
+    "output": "HP_0000041"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Absent external genitalia is identified by the HPO ID",
+    "output": "HP_0000042"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hypogonadotropic hypogonadism is identified by the HPO ID",
+    "output": "HP_0000044"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the scrotum is identified by the HPO ID",
+    "output": "HP_0000045"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Small scrotum is identified by the HPO ID",
+    "output": "HP_0000046"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hypospadias is identified by the HPO ID",
+    "output": "HP_0000047"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Bifid scrotum is identified by the HPO ID",
+    "output": "HP_0000048"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Shawl scrotum is identified by the HPO ID",
+    "output": "HP_0000049"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hypoplastic male external genitalia is identified by the HPO ID",
+    "output": "HP_0000050"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Perineal hypospadias is identified by the HPO ID",
+    "output": "HP_0000051"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Urethral atresia, male is identified by the HPO ID",
+    "output": "HP_0000052"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Macroorchidism is identified by the HPO ID",
+    "output": "HP_0000053"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Micropenis is identified by the HPO ID",
+    "output": "HP_0000054"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of female external genitalia is identified by the HPO ID",
+    "output": "HP_0000055"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the clitoris is identified by the HPO ID",
+    "output": "HP_0000056"
+  },
+  {
+    "input": "The Human Phenotype Ontology term obsolete Clitoromegaly is identified by the HPO ID",
+    "output": "HP_0000057"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal labia morphology is identified by the HPO ID",
+    "output": "HP_0000058"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hypoplastic labia majora is identified by the HPO ID",
+    "output": "HP_0000059"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Clitoral hypoplasia is identified by the HPO ID",
+    "output": "HP_0000060"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Ambiguous genitalia, female is identified by the HPO ID",
+    "output": "HP_0000061"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Ambiguous genitalia is identified by the HPO ID",
+    "output": "HP_0000062"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Fused labia minora is identified by the HPO ID",
+    "output": "HP_0000063"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hypoplastic labia minora is identified by the HPO ID",
+    "output": "HP_0000064"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Labial hypertrophy is identified by the HPO ID",
+    "output": "HP_0000065"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Labial hypoplasia is identified by the HPO ID",
+    "output": "HP_0000066"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Urethral atresia, female is identified by the HPO ID",
+    "output": "HP_0000067"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Urethral atresia is identified by the HPO ID",
+    "output": "HP_0000068"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the ureter is identified by the HPO ID",
+    "output": "HP_0000069"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Ureterocele is identified by the HPO ID",
+    "output": "HP_0000070"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Ureteral stenosis is identified by the HPO ID",
+    "output": "HP_0000071"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hydroureter is identified by the HPO ID",
+    "output": "HP_0000072"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Ureteral duplication is identified by the HPO ID",
+    "output": "HP_0000073"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Ureteropelvic junction obstruction is identified by the HPO ID",
+    "output": "HP_0000074"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Renal duplication is identified by the HPO ID",
+    "output": "HP_0000075"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Vesicoureteral reflux is identified by the HPO ID",
+    "output": "HP_0000076"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the kidney is identified by the HPO ID",
+    "output": "HP_0000077"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the genital system is identified by the HPO ID",
+    "output": "HP_0000078"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the urinary system is identified by the HPO ID",
+    "output": "HP_0000079"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of reproductive system physiology is identified by the HPO ID",
+    "output": "HP_0000080"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Duplicated collecting system is identified by the HPO ID",
+    "output": "HP_0000081"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Renal insufficiency is identified by the HPO ID",
+    "output": "HP_0000083"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Horseshoe kidney is identified by the HPO ID",
+    "output": "HP_0000085"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Ectopic kidney is identified by the HPO ID",
+    "output": "HP_0000086"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Renal hypoplasia is identified by the HPO ID",
+    "output": "HP_0000089"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Nephronophthisis is identified by the HPO ID",
+    "output": "HP_0000090"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal renal tubule morphology is identified by the HPO ID",
+    "output": "HP_0000091"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Renal tubular atrophy is identified by the HPO ID",
+    "output": "HP_0000092"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Proteinuria is identified by the HPO ID",
+    "output": "HP_0000093"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal renal glomerulus morphology is identified by the HPO ID",
+    "output": "HP_0000095"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Glomerular sclerosis is identified by the HPO ID",
+    "output": "HP_0000096"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Focal segmental glomerulosclerosis is identified by the HPO ID",
+    "output": "HP_0000097"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Tall stature is identified by the HPO ID",
+    "output": "HP_0000098"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Glomerulonephritis is identified by the HPO ID",
+    "output": "HP_0000099"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Nephrotic syndrome is identified by the HPO ID",
+    "output": "HP_0000100"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Polyuria is identified by the HPO ID",
+    "output": "HP_0000103"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Renal agenesis is identified by the HPO ID",
+    "output": "HP_0000104"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Enlarged kidney is identified by the HPO ID",
+    "output": "HP_0000105"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Renal cyst is identified by the HPO ID",
+    "output": "HP_0000107"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Renal corticomedullary cysts is identified by the HPO ID",
+    "output": "HP_0000108"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Renal dysplasia is identified by the HPO ID",
+    "output": "HP_0000110"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Renal juxtaglomerular cell hypertrophy/hyperplasia is identified by the HPO ID",
+    "output": "HP_0000111"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Nephropathy is identified by the HPO ID",
+    "output": "HP_0000112"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Polycystic kidney dysplasia is identified by the HPO ID",
+    "output": "HP_0000113"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Proximal tubulopathy is identified by the HPO ID",
+    "output": "HP_0000114"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Renal phosphate wasting is identified by the HPO ID",
+    "output": "HP_0000117"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Phenotypic abnormality is identified by the HPO ID",
+    "output": "HP_0000118"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the genitourinary system is identified by the HPO ID",
+    "output": "HP_0000119"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Nephrocalcinosis is identified by the HPO ID",
+    "output": "HP_0000121"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Unilateral renal agenesis is identified by the HPO ID",
+    "output": "HP_0000122"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Nephritis is identified by the HPO ID",
+    "output": "HP_0000123"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Renal tubular dysfunction is identified by the HPO ID",
+    "output": "HP_0000124"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Pelvic kidney is identified by the HPO ID",
+    "output": "HP_0000125"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hydronephrosis is identified by the HPO ID",
+    "output": "HP_0000126"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Renal salt wasting is identified by the HPO ID",
+    "output": "HP_0000127"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Renal potassium wasting is identified by the HPO ID",
+    "output": "HP_0000128"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the uterus is identified by the HPO ID",
+    "output": "HP_0000130"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Uterine leiomyoma is identified by the HPO ID",
+    "output": "HP_0000131"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Menorrhagia is identified by the HPO ID",
+    "output": "HP_0000132"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Gonadal dysgenesis is identified by the HPO ID",
+    "output": "HP_0000133"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Female hypogonadism is identified by the HPO ID",
+    "output": "HP_0000134"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hypogonadism is identified by the HPO ID",
+    "output": "HP_0000135"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Bifid uterus is identified by the HPO ID",
+    "output": "HP_0000136"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the ovary is identified by the HPO ID",
+    "output": "HP_0000137"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Ovarian cyst is identified by the HPO ID",
+    "output": "HP_0000138"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Uterine prolapse is identified by the HPO ID",
+    "output": "HP_0000139"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the menstrual cycle is identified by the HPO ID",
+    "output": "HP_0000140"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Amenorrhea is identified by the HPO ID",
+    "output": "HP_0000141"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal vagina morphology is identified by the HPO ID",
+    "output": "HP_0000142"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Rectovaginal fistula is identified by the HPO ID",
+    "output": "HP_0000143"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Decreased fertility is identified by the HPO ID",
+    "output": "HP_0000144"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Transverse vaginal septum is identified by the HPO ID",
+    "output": "HP_0000145"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Polycystic ovaries is identified by the HPO ID",
+    "output": "HP_0000147"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Vaginal atresia is identified by the HPO ID",
+    "output": "HP_0000148"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Ovarian gonadoblastoma is identified by the HPO ID",
+    "output": "HP_0000149"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Gonadoblastoma is identified by the HPO ID",
+    "output": "HP_0000150"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Aplasia of the uterus is identified by the HPO ID",
+    "output": "HP_0000151"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of head or neck is identified by the HPO ID",
+    "output": "HP_0000152"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the mouth is identified by the HPO ID",
+    "output": "HP_0000153"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Wide mouth is identified by the HPO ID",
+    "output": "HP_0000154"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Oral ulcer is identified by the HPO ID",
+    "output": "HP_0000155"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the tongue is identified by the HPO ID",
+    "output": "HP_0000157"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Macroglossia is identified by the HPO ID",
+    "output": "HP_0000158"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal lip morphology is identified by the HPO ID",
+    "output": "HP_0000159"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Narrow mouth is identified by the HPO ID",
+    "output": "HP_0000160"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Median cleft lip is identified by the HPO ID",
+    "output": "HP_0000161"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Glossoptosis is identified by the HPO ID",
+    "output": "HP_0000162"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal oral cavity morphology is identified by the HPO ID",
+    "output": "HP_0000163"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the dentition is identified by the HPO ID",
+    "output": "HP_0000164"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Severe periodontitis is identified by the HPO ID",
+    "output": "HP_0000166"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the gingiva is identified by the HPO ID",
+    "output": "HP_0000168"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Gingival fibromatosis is identified by the HPO ID",
+    "output": "HP_0000169"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Microglossia is identified by the HPO ID",
+    "output": "HP_0000171"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal uvula morphology is identified by the HPO ID",
+    "output": "HP_0000172"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal palate morphology is identified by the HPO ID",
+    "output": "HP_0000174"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Cleft palate is identified by the HPO ID",
+    "output": "HP_0000175"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Submucous cleft hard palate is identified by the HPO ID",
+    "output": "HP_0000176"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal upper lip morphology is identified by the HPO ID",
+    "output": "HP_0000177"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal lower lip morphology is identified by the HPO ID",
+    "output": "HP_0000178"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Thick lower lip vermilion is identified by the HPO ID",
+    "output": "HP_0000179"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Lobulated tongue is identified by the HPO ID",
+    "output": "HP_0000180"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Movement abnormality of the tongue is identified by the HPO ID",
+    "output": "HP_0000182"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Difficulty in tongue movements is identified by the HPO ID",
+    "output": "HP_0000183"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Cleft soft palate is identified by the HPO ID",
+    "output": "HP_0000185"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Broad alveolar ridges is identified by the HPO ID",
+    "output": "HP_0000187"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Short upper lip is identified by the HPO ID",
+    "output": "HP_0000188"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Narrow palate is identified by the HPO ID",
+    "output": "HP_0000189"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal oral frenulum morphology is identified by the HPO ID",
+    "output": "HP_0000190"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Accessory oral frenulum is identified by the HPO ID",
+    "output": "HP_0000191"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Bifid uvula is identified by the HPO ID",
+    "output": "HP_0000193"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Open mouth is identified by the HPO ID",
+    "output": "HP_0000194"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Lower lip pit is identified by the HPO ID",
+    "output": "HP_0000196"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal parotid gland morphology is identified by the HPO ID",
+    "output": "HP_0000197"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Absence of Stensen duct is identified by the HPO ID",
+    "output": "HP_0000198"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Tongue nodules is identified by the HPO ID",
+    "output": "HP_0000199"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Short lingual frenulum is identified by the HPO ID",
+    "output": "HP_0000200"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Pierre-Robin sequence is identified by the HPO ID",
+    "output": "HP_0000201"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Orofacial cleft is identified by the HPO ID",
+    "output": "HP_0000202"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Cleft upper lip is identified by the HPO ID",
+    "output": "HP_0000204"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Pursed lips is identified by the HPO ID",
+    "output": "HP_0000205"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Glossitis is identified by the HPO ID",
+    "output": "HP_0000206"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Triangular mouth is identified by the HPO ID",
+    "output": "HP_0000207"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Trismus is identified by the HPO ID",
+    "output": "HP_0000211"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Gingival overgrowth is identified by the HPO ID",
+    "output": "HP_0000212"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Lip telangiectasia is identified by the HPO ID",
+    "output": "HP_0000214"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Thick upper lip vermilion is identified by the HPO ID",
+    "output": "HP_0000215"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Broad secondary alveolar ridge is identified by the HPO ID",
+    "output": "HP_0000216"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Xerostomia is identified by the HPO ID",
+    "output": "HP_0000217"
+  },
+  {
+    "input": "The Human Phenotype Ontology term High palate is identified by the HPO ID",
+    "output": "HP_0000218"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Thin upper lip vermilion is identified by the HPO ID",
+    "output": "HP_0000219"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Velopharyngeal insufficiency is identified by the HPO ID",
+    "output": "HP_0000220"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Furrowed tongue is identified by the HPO ID",
+    "output": "HP_0000221"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Gingival hyperkeratosis is identified by the HPO ID",
+    "output": "HP_0000222"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of taste sensation is identified by the HPO ID",
+    "output": "HP_0000223"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hypogeusia is identified by the HPO ID",
+    "output": "HP_0000224"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Gingival bleeding is identified by the HPO ID",
+    "output": "HP_0000225"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Tongue telangiectasia is identified by the HPO ID",
+    "output": "HP_0000227"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Oral cavity telangiectasia is identified by the HPO ID",
+    "output": "HP_0000228"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Gingivitis is identified by the HPO ID",
+    "output": "HP_0000230"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Everted lower lip vermilion is identified by the HPO ID",
+    "output": "HP_0000232"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Thin vermilion border is identified by the HPO ID",
+    "output": "HP_0000233"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the head is identified by the HPO ID",
+    "output": "HP_0000234"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the fontanelles or cranial sutures is identified by the HPO ID",
+    "output": "HP_0000235"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the anterior fontanelle is identified by the HPO ID",
+    "output": "HP_0000236"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Small anterior fontanelle is identified by the HPO ID",
+    "output": "HP_0000237"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hydrocephalus is identified by the HPO ID",
+    "output": "HP_0000238"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Large fontanelles is identified by the HPO ID",
+    "output": "HP_0000239"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of skull size is identified by the HPO ID",
+    "output": "HP_0000240"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Parietal bossing is identified by the HPO ID",
+    "output": "HP_0000242"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Trigonocephaly is identified by the HPO ID",
+    "output": "HP_0000243"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Brachyturricephaly is identified by the HPO ID",
+    "output": "HP_0000244"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal paranasal sinus morphology is identified by the HPO ID",
+    "output": "HP_0000245"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Sinusitis is identified by the HPO ID",
+    "output": "HP_0000246"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Brachycephaly is identified by the HPO ID",
+    "output": "HP_0000248"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Dense calvaria is identified by the HPO ID",
+    "output": "HP_0000250"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Microcephaly is identified by the HPO ID",
+    "output": "HP_0000252"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Progressive microcephaly is identified by the HPO ID",
+    "output": "HP_0000253"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Acute sinusitis is identified by the HPO ID",
+    "output": "HP_0000255"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Macrocephaly is identified by the HPO ID",
+    "output": "HP_0000256"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Wide anterior fontanel is identified by the HPO ID",
+    "output": "HP_0000260"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Turricephaly is identified by the HPO ID",
+    "output": "HP_0000262"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Oxycephaly is identified by the HPO ID",
+    "output": "HP_0000263"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal mastoid morphology is identified by the HPO ID",
+    "output": "HP_0000264"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Mastoiditis is identified by the HPO ID",
+    "output": "HP_0000265"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Cranial asymmetry is identified by the HPO ID",
+    "output": "HP_0000267"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Dolichocephaly is identified by the HPO ID",
+    "output": "HP_0000268"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Prominent occiput is identified by the HPO ID",
+    "output": "HP_0000269"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Delayed cranial suture closure is identified by the HPO ID",
+    "output": "HP_0000270"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the face is identified by the HPO ID",
+    "output": "HP_0000271"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Malar flattening is identified by the HPO ID",
+    "output": "HP_0000272"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Facial grimacing is identified by the HPO ID",
+    "output": "HP_0000273"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Small face is identified by the HPO ID",
+    "output": "HP_0000274"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Narrow face is identified by the HPO ID",
+    "output": "HP_0000275"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Long face is identified by the HPO ID",
+    "output": "HP_0000276"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal mandible morphology is identified by the HPO ID",
+    "output": "HP_0000277"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Retrognathia is identified by the HPO ID",
+    "output": "HP_0000278"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Coarse facial features is identified by the HPO ID",
+    "output": "HP_0000280"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Facial edema is identified by the HPO ID",
+    "output": "HP_0000282"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Broad face is identified by the HPO ID",
+    "output": "HP_0000283"
+  },
+  {
+    "input": "The Human Phenotype Ontology term obsolete Abnormality of the ocular region is identified by the HPO ID",
+    "output": "HP_0000284"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Epicanthus is identified by the HPO ID",
+    "output": "HP_0000286"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Increased facial adipose tissue is identified by the HPO ID",
+    "output": "HP_0000287"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the philtrum is identified by the HPO ID",
+    "output": "HP_0000288"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Broad philtrum is identified by the HPO ID",
+    "output": "HP_0000289"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the forehead is identified by the HPO ID",
+    "output": "HP_0000290"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of facial adipose tissue is identified by the HPO ID",
+    "output": "HP_0000291"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Loss of facial adipose tissue is identified by the HPO ID",
+    "output": "HP_0000292"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Full cheeks is identified by the HPO ID",
+    "output": "HP_0000293"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Low anterior hairline is identified by the HPO ID",
+    "output": "HP_0000294"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Doll-like facies is identified by the HPO ID",
+    "output": "HP_0000295"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Facial hypotonia is identified by the HPO ID",
+    "output": "HP_0000297"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Mask-like facies is identified by the HPO ID",
+    "output": "HP_0000298"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Oval face is identified by the HPO ID",
+    "output": "HP_0000300"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of facial musculature is identified by the HPO ID",
+    "output": "HP_0000301"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Mandibular prognathia is identified by the HPO ID",
+    "output": "HP_0000303"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the chin is identified by the HPO ID",
+    "output": "HP_0000306"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Pointed chin is identified by the HPO ID",
+    "output": "HP_0000307"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Microretrognathia is identified by the HPO ID",
+    "output": "HP_0000308"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal midface morphology is identified by the HPO ID",
+    "output": "HP_0000309"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Round face is identified by the HPO ID",
+    "output": "HP_0000311"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the orbital region is identified by the HPO ID",
+    "output": "HP_0000315"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hypertelorism is identified by the HPO ID",
+    "output": "HP_0000316"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Facial myokymia is identified by the HPO ID",
+    "output": "HP_0000317"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Smooth philtrum is identified by the HPO ID",
+    "output": "HP_0000319"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Bird-like facies is identified by the HPO ID",
+    "output": "HP_0000320"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Square face is identified by the HPO ID",
+    "output": "HP_0000321"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Short philtrum is identified by the HPO ID",
+    "output": "HP_0000322"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Facial asymmetry is identified by the HPO ID",
+    "output": "HP_0000324"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Triangular face is identified by the HPO ID",
+    "output": "HP_0000325"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal maxilla morphology is identified by the HPO ID",
+    "output": "HP_0000326"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hypoplasia of the maxilla is identified by the HPO ID",
+    "output": "HP_0000327"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Facial hemangioma is identified by the HPO ID",
+    "output": "HP_0000329"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Short chin is identified by the HPO ID",
+    "output": "HP_0000331"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Prominent supraorbital ridges is identified by the HPO ID",
+    "output": "HP_0000336"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Broad forehead is identified by the HPO ID",
+    "output": "HP_0000337"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hypomimic face is identified by the HPO ID",
+    "output": "HP_0000338"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Pugilistic facies is identified by the HPO ID",
+    "output": "HP_0000339"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Sloping forehead is identified by the HPO ID",
+    "output": "HP_0000340"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Narrow forehead is identified by the HPO ID",
+    "output": "HP_0000341"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Long philtrum is identified by the HPO ID",
+    "output": "HP_0000343"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Whistling appearance is identified by the HPO ID",
+    "output": "HP_0000346"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Micrognathia is identified by the HPO ID",
+    "output": "HP_0000347"
+  },
+  {
+    "input": "The Human Phenotype Ontology term High forehead is identified by the HPO ID",
+    "output": "HP_0000348"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Widow's peak is identified by the HPO ID",
+    "output": "HP_0000349"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Small forehead is identified by the HPO ID",
+    "output": "HP_0000350"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the outer ear is identified by the HPO ID",
+    "output": "HP_0000356"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal location of ears is identified by the HPO ID",
+    "output": "HP_0000357"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Posteriorly rotated ears is identified by the HPO ID",
+    "output": "HP_0000358"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the inner ear is identified by the HPO ID",
+    "output": "HP_0000359"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Tinnitus is identified by the HPO ID",
+    "output": "HP_0000360"
+  },
+  {
+    "input": "The Human Phenotype Ontology term obsolete Pulsatile tinnitus (tympanic paraganglioma) is identified by the HPO ID",
+    "output": "HP_0000361"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Otosclerosis is identified by the HPO ID",
+    "output": "HP_0000362"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal earlobe morphology is identified by the HPO ID",
+    "output": "HP_0000363"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hearing abnormality is identified by the HPO ID",
+    "output": "HP_0000364"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hearing impairment is identified by the HPO ID",
+    "output": "HP_0000365"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the nose is identified by the HPO ID",
+    "output": "HP_0000366"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Low-set, posteriorly rotated ears is identified by the HPO ID",
+    "output": "HP_0000368"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Low-set ears is identified by the HPO ID",
+    "output": "HP_0000369"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the middle ear is identified by the HPO ID",
+    "output": "HP_0000370"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Acute otitis media is identified by the HPO ID",
+    "output": "HP_0000371"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the auditory canal is identified by the HPO ID",
+    "output": "HP_0000372"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal cochlea morphology is identified by the HPO ID",
+    "output": "HP_0000375"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Incomplete partition of the cochlea type II is identified by the HPO ID",
+    "output": "HP_0000376"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal pinna morphology is identified by the HPO ID",
+    "output": "HP_0000377"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Cupped ear is identified by the HPO ID",
+    "output": "HP_0000378"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Stapes ankylosis is identified by the HPO ID",
+    "output": "HP_0000381"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal periauricular region morphology is identified by the HPO ID",
+    "output": "HP_0000383"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Preauricular skin tag is identified by the HPO ID",
+    "output": "HP_0000384"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Small earlobe is identified by the HPO ID",
+    "output": "HP_0000385"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Absent earlobe is identified by the HPO ID",
+    "output": "HP_0000387"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Otitis media is identified by the HPO ID",
+    "output": "HP_0000388"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Chronic otitis media is identified by the HPO ID",
+    "output": "HP_0000389"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Thickened helices is identified by the HPO ID",
+    "output": "HP_0000391"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Lop ear is identified by the HPO ID",
+    "output": "HP_0000394"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Prominent antihelix is identified by the HPO ID",
+    "output": "HP_0000395"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Overfolded helix is identified by the HPO ID",
+    "output": "HP_0000396"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Prelingual sensorineural hearing impairment is identified by the HPO ID",
+    "output": "HP_0000399"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Macrotia is identified by the HPO ID",
+    "output": "HP_0000400"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Stenosis of the external auditory canal is identified by the HPO ID",
+    "output": "HP_0000402"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Recurrent otitis media is identified by the HPO ID",
+    "output": "HP_0000403"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Conductive hearing impairment is identified by the HPO ID",
+    "output": "HP_0000405"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Sensorineural hearing impairment is identified by the HPO ID",
+    "output": "HP_0000407"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Progressive sensorineural hearing impairment is identified by the HPO ID",
+    "output": "HP_0000408"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Mixed hearing impairment is identified by the HPO ID",
+    "output": "HP_0000410"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Protruding ear is identified by the HPO ID",
+    "output": "HP_0000411"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Atresia of the external auditory canal is identified by the HPO ID",
+    "output": "HP_0000413"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Bulbous nose is identified by the HPO ID",
+    "output": "HP_0000414"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the choanae is identified by the HPO ID",
+    "output": "HP_0000415"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Slender nose is identified by the HPO ID",
+    "output": "HP_0000417"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Narrow nasal ridge is identified by the HPO ID",
+    "output": "HP_0000418"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal nasal septum morphology is identified by the HPO ID",
+    "output": "HP_0000419"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Short nasal septum is identified by the HPO ID",
+    "output": "HP_0000420"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Epistaxis is identified by the HPO ID",
+    "output": "HP_0000421"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal nasal bridge morphology is identified by the HPO ID",
+    "output": "HP_0000422"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Prominent nasal bridge is identified by the HPO ID",
+    "output": "HP_0000426"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal morphology of the nasal alae is identified by the HPO ID",
+    "output": "HP_0000429"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Underdeveloped nasal alae is identified by the HPO ID",
+    "output": "HP_0000430"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Wide nasal bridge is identified by the HPO ID",
+    "output": "HP_0000431"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal nasal mucosa morphology is identified by the HPO ID",
+    "output": "HP_0000433"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Nasal mucosa telangiectasia is identified by the HPO ID",
+    "output": "HP_0000434"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal nasal tip morphology is identified by the HPO ID",
+    "output": "HP_0000436"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Depressed nasal tip is identified by the HPO ID",
+    "output": "HP_0000437"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Convex nasal ridge is identified by the HPO ID",
+    "output": "HP_0000444"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Wide nose is identified by the HPO ID",
+    "output": "HP_0000445"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Narrow nasal bridge is identified by the HPO ID",
+    "output": "HP_0000446"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Pear-shaped nose is identified by the HPO ID",
+    "output": "HP_0000447"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Prominent nose is identified by the HPO ID",
+    "output": "HP_0000448"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Triangular nasal tip is identified by the HPO ID",
+    "output": "HP_0000451"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Choanal stenosis is identified by the HPO ID",
+    "output": "HP_0000452"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Choanal atresia is identified by the HPO ID",
+    "output": "HP_0000453"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Flared nostrils is identified by the HPO ID",
+    "output": "HP_0000454"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Broad nasal tip is identified by the HPO ID",
+    "output": "HP_0000455"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Bifid nasal tip is identified by the HPO ID",
+    "output": "HP_0000456"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Depressed nasal ridge is identified by the HPO ID",
+    "output": "HP_0000457"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Anosmia is identified by the HPO ID",
+    "output": "HP_0000458"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Narrow nose is identified by the HPO ID",
+    "output": "HP_0000460"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Anteverted nares is identified by the HPO ID",
+    "output": "HP_0000463"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the neck is identified by the HPO ID",
+    "output": "HP_0000464"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Webbed neck is identified by the HPO ID",
+    "output": "HP_0000465"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Limited neck range of motion is identified by the HPO ID",
+    "output": "HP_0000466"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Neck muscle weakness is identified by the HPO ID",
+    "output": "HP_0000467"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Increased adipose tissue around the neck is identified by the HPO ID",
+    "output": "HP_0000468"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Short neck is identified by the HPO ID",
+    "output": "HP_0000470"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Gastrointestinal angiodysplasia is identified by the HPO ID",
+    "output": "HP_0000471"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Long neck is identified by the HPO ID",
+    "output": "HP_0000472"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Torticollis is identified by the HPO ID",
+    "output": "HP_0000473"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Thickened nuchal skin fold is identified by the HPO ID",
+    "output": "HP_0000474"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Broad neck is identified by the HPO ID",
+    "output": "HP_0000475"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Cystic hygroma is identified by the HPO ID",
+    "output": "HP_0000476"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the eye is identified by the HPO ID",
+    "output": "HP_0000478"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal retinal morphology is identified by the HPO ID",
+    "output": "HP_0000479"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Retinal coloboma is identified by the HPO ID",
+    "output": "HP_0000480"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal cornea morphology is identified by the HPO ID",
+    "output": "HP_0000481"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Microcornea is identified by the HPO ID",
+    "output": "HP_0000482"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Astigmatism is identified by the HPO ID",
+    "output": "HP_0000483"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hyperopic astigmatism is identified by the HPO ID",
+    "output": "HP_0000484"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Megalocornea is identified by the HPO ID",
+    "output": "HP_0000485"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Strabismus is identified by the HPO ID",
+    "output": "HP_0000486"
+  },
+  {
+    "input": "The Human Phenotype Ontology term obsolete Congenital strabismus is identified by the HPO ID",
+    "output": "HP_0000487"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Retinopathy is identified by the HPO ID",
+    "output": "HP_0000488"
+  },
+  {
+    "input": "The Human Phenotype Ontology term obsolete Abnormality of globe location or size is identified by the HPO ID",
+    "output": "HP_0000489"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Deeply set eye is identified by the HPO ID",
+    "output": "HP_0000490"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Keratitis is identified by the HPO ID",
+    "output": "HP_0000491"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal eyelid morphology is identified by the HPO ID",
+    "output": "HP_0000492"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal foveal morphology is identified by the HPO ID",
+    "output": "HP_0000493"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Downslanted palpebral fissures is identified by the HPO ID",
+    "output": "HP_0000494"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Recurrent corneal erosions is identified by the HPO ID",
+    "output": "HP_0000495"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of eye movement is identified by the HPO ID",
+    "output": "HP_0000496"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Globe retraction and deviation on abduction is identified by the HPO ID",
+    "output": "HP_0000497"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Blepharitis is identified by the HPO ID",
+    "output": "HP_0000498"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal eyelash morphology is identified by the HPO ID",
+    "output": "HP_0000499"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Glaucoma is identified by the HPO ID",
+    "output": "HP_0000501"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal conjunctiva morphology is identified by the HPO ID",
+    "output": "HP_0000502"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Tortuosity of conjunctival vessels is identified by the HPO ID",
+    "output": "HP_0000503"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of vision is identified by the HPO ID",
+    "output": "HP_0000504"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Visual impairment is identified by the HPO ID",
+    "output": "HP_0000505"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Telecanthus is identified by the HPO ID",
+    "output": "HP_0000506"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Ptosis is identified by the HPO ID",
+    "output": "HP_0000508"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Conjunctivitis is identified by the HPO ID",
+    "output": "HP_0000509"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Rod-cone dystrophy is identified by the HPO ID",
+    "output": "HP_0000510"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Vertical supranuclear gaze palsy is identified by the HPO ID",
+    "output": "HP_0000511"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal electroretinogram is identified by the HPO ID",
+    "output": "HP_0000512"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Slow saccadic eye movements is identified by the HPO ID",
+    "output": "HP_0000514"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal lens morphology is identified by the HPO ID",
+    "output": "HP_0000517"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Cataract is identified by the HPO ID",
+    "output": "HP_0000518"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Developmental cataract is identified by the HPO ID",
+    "output": "HP_0000519"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Proptosis is identified by the HPO ID",
+    "output": "HP_0000520"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Alacrima is identified by the HPO ID",
+    "output": "HP_0000522"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Subcapsular cataract is identified by the HPO ID",
+    "output": "HP_0000523"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Conjunctival telangiectasia is identified by the HPO ID",
+    "output": "HP_0000524"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality iris morphology is identified by the HPO ID",
+    "output": "HP_0000525"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Aniridia is identified by the HPO ID",
+    "output": "HP_0000526"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Long eyelashes is identified by the HPO ID",
+    "output": "HP_0000527"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Anophthalmia is identified by the HPO ID",
+    "output": "HP_0000528"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Progressive visual loss is identified by the HPO ID",
+    "output": "HP_0000529"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Corneal crystals is identified by the HPO ID",
+    "output": "HP_0000531"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal chorioretinal morphology is identified by the HPO ID",
+    "output": "HP_0000532"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Chorioretinal atrophy is identified by the HPO ID",
+    "output": "HP_0000533"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal eyebrow morphology is identified by the HPO ID",
+    "output": "HP_0000534"
+  },
+  {
+    "input": "The Human Phenotype Ontology term obsolete Sparse and thin eyebrow is identified by the HPO ID",
+    "output": "HP_0000535"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Epicanthus inversus is identified by the HPO ID",
+    "output": "HP_0000537"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Pseudopapilledema is identified by the HPO ID",
+    "output": "HP_0000538"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of refraction is identified by the HPO ID",
+    "output": "HP_0000539"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hypermetropia is identified by the HPO ID",
+    "output": "HP_0000540"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Retinal detachment is identified by the HPO ID",
+    "output": "HP_0000541"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Impaired ocular adduction is identified by the HPO ID",
+    "output": "HP_0000542"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Optic disc pallor is identified by the HPO ID",
+    "output": "HP_0000543"
+  },
+  {
+    "input": "The Human Phenotype Ontology term External ophthalmoplegia is identified by the HPO ID",
+    "output": "HP_0000544"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Myopia is identified by the HPO ID",
+    "output": "HP_0000545"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Retinal degeneration is identified by the HPO ID",
+    "output": "HP_0000546"
+  },
+  {
+    "input": "The Human Phenotype Ontology term obsolete Tapetoretinal degeneration is identified by the HPO ID",
+    "output": "HP_0000547"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Cone/cone-rod dystrophy is identified by the HPO ID",
+    "output": "HP_0000548"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal conjugate eye movement is identified by the HPO ID",
+    "output": "HP_0000549"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Undetectable electroretinogram is identified by the HPO ID",
+    "output": "HP_0000550"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Color vision defect is identified by the HPO ID",
+    "output": "HP_0000551"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Tritanomaly is identified by the HPO ID",
+    "output": "HP_0000552"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal uvea morphology is identified by the HPO ID",
+    "output": "HP_0000553"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Uveitis is identified by the HPO ID",
+    "output": "HP_0000554"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Leukocoria is identified by the HPO ID",
+    "output": "HP_0000555"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Retinal dystrophy is identified by the HPO ID",
+    "output": "HP_0000556"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Buphthalmos is identified by the HPO ID",
+    "output": "HP_0000557"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Rieger anomaly is identified by the HPO ID",
+    "output": "HP_0000558"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Corneal scarring is identified by the HPO ID",
+    "output": "HP_0000559"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Absent eyelashes is identified by the HPO ID",
+    "output": "HP_0000561"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Keratoconus is identified by the HPO ID",
+    "output": "HP_0000563"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Lacrimal duct atresia is identified by the HPO ID",
+    "output": "HP_0000564"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Esotropia is identified by the HPO ID",
+    "output": "HP_0000565"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Chorioretinal coloboma is identified by the HPO ID",
+    "output": "HP_0000567"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Microphthalmia is identified by the HPO ID",
+    "output": "HP_0000568"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal saccadic eye movements is identified by the HPO ID",
+    "output": "HP_0000570"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hypometric saccades is identified by the HPO ID",
+    "output": "HP_0000571"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Visual loss is identified by the HPO ID",
+    "output": "HP_0000572"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Retinal hemorrhage is identified by the HPO ID",
+    "output": "HP_0000573"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Thick eyebrow is identified by the HPO ID",
+    "output": "HP_0000574"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Scotoma is identified by the HPO ID",
+    "output": "HP_0000575"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Centrocecal scotoma is identified by the HPO ID",
+    "output": "HP_0000576"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Exotropia is identified by the HPO ID",
+    "output": "HP_0000577"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Nasolacrimal duct obstruction is identified by the HPO ID",
+    "output": "HP_0000579"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Pigmentary retinopathy is identified by the HPO ID",
+    "output": "HP_0000580"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Blepharophimosis is identified by the HPO ID",
+    "output": "HP_0000581"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Upslanted palpebral fissure is identified by the HPO ID",
+    "output": "HP_0000582"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Punctate corneal epithelial erosions is identified by the HPO ID",
+    "output": "HP_0000584"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Band keratopathy is identified by the HPO ID",
+    "output": "HP_0000585"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Shallow orbits is identified by the HPO ID",
+    "output": "HP_0000586"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal optic nerve morphology is identified by the HPO ID",
+    "output": "HP_0000587"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Optic disc coloboma is identified by the HPO ID",
+    "output": "HP_0000588"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Coloboma is identified by the HPO ID",
+    "output": "HP_0000589"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Progressive external ophthalmoplegia is identified by the HPO ID",
+    "output": "HP_0000590"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal sclera morphology is identified by the HPO ID",
+    "output": "HP_0000591"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Blue sclerae is identified by the HPO ID",
+    "output": "HP_0000592"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal anterior chamber morphology is identified by the HPO ID",
+    "output": "HP_0000593"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Shallow anterior chamber is identified by the HPO ID",
+    "output": "HP_0000594"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Ophthalmoparesis is identified by the HPO ID",
+    "output": "HP_0000597"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the ear is identified by the HPO ID",
+    "output": "HP_0000598"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the frontal hairline is identified by the HPO ID",
+    "output": "HP_0000599"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the pharynx is identified by the HPO ID",
+    "output": "HP_0000600"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hypotelorism is identified by the HPO ID",
+    "output": "HP_0000601"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Ophthalmoplegia is identified by the HPO ID",
+    "output": "HP_0000602"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Central scotoma is identified by the HPO ID",
+    "output": "HP_0000603"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Supranuclear gaze palsy is identified by the HPO ID",
+    "output": "HP_0000605"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the periorbital region is identified by the HPO ID",
+    "output": "HP_0000606"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Periorbital wrinkles is identified by the HPO ID",
+    "output": "HP_0000607"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Macular degeneration is identified by the HPO ID",
+    "output": "HP_0000608"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Optic nerve hypoplasia is identified by the HPO ID",
+    "output": "HP_0000609"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal choroid morphology is identified by the HPO ID",
+    "output": "HP_0000610"
+  },
+  {
+    "input": "The Human Phenotype Ontology term obsolete Choroid coloboma is identified by the HPO ID",
+    "output": "HP_0000611"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Iris coloboma is identified by the HPO ID",
+    "output": "HP_0000612"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Photophobia is identified by the HPO ID",
+    "output": "HP_0000613"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal nasolacrimal system morphology is identified by the HPO ID",
+    "output": "HP_0000614"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal pupil morphology is identified by the HPO ID",
+    "output": "HP_0000615"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Miosis is identified by the HPO ID",
+    "output": "HP_0000616"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of ocular smooth pursuit is identified by the HPO ID",
+    "output": "HP_0000617"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Blindness is identified by the HPO ID",
+    "output": "HP_0000618"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Impaired convergence is identified by the HPO ID",
+    "output": "HP_0000619"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Dacryocystitis is identified by the HPO ID",
+    "output": "HP_0000620"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Entropion is identified by the HPO ID",
+    "output": "HP_0000621"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Blurred vision is identified by the HPO ID",
+    "output": "HP_0000622"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Supranuclear ophthalmoplegia is identified by the HPO ID",
+    "output": "HP_0000623"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Eyelid coloboma is identified by the HPO ID",
+    "output": "HP_0000625"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Posterior embryotoxon is identified by the HPO ID",
+    "output": "HP_0000627"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Periorbital fullness is identified by the HPO ID",
+    "output": "HP_0000629"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal retinal artery morphology is identified by the HPO ID",
+    "output": "HP_0000630"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Retinal arterial tortuosity is identified by the HPO ID",
+    "output": "HP_0000631"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Lacrimation abnormality is identified by the HPO ID",
+    "output": "HP_0000632"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Decreased lacrimation is identified by the HPO ID",
+    "output": "HP_0000633"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Impaired ocular abduction is identified by the HPO ID",
+    "output": "HP_0000634"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Blue irides is identified by the HPO ID",
+    "output": "HP_0000635"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Upper eyelid coloboma is identified by the HPO ID",
+    "output": "HP_0000636"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Long palpebral fissure is identified by the HPO ID",
+    "output": "HP_0000637"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Nystagmus is identified by the HPO ID",
+    "output": "HP_0000639"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Gaze-evoked nystagmus is identified by the HPO ID",
+    "output": "HP_0000640"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Dysmetric saccades is identified by the HPO ID",
+    "output": "HP_0000641"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Red-green dyschromatopsia is identified by the HPO ID",
+    "output": "HP_0000642"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Blepharospasm is identified by the HPO ID",
+    "output": "HP_0000643"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Amblyopia is identified by the HPO ID",
+    "output": "HP_0000646"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Sclerocornea is identified by the HPO ID",
+    "output": "HP_0000647"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Optic atrophy is identified by the HPO ID",
+    "output": "HP_0000648"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of visual evoked potentials is identified by the HPO ID",
+    "output": "HP_0000649"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal amplitude of pattern reversal visual evoked potentials is identified by the HPO ID",
+    "output": "HP_0000650"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Diplopia is identified by the HPO ID",
+    "output": "HP_0000651"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Lower eyelid coloboma is identified by the HPO ID",
+    "output": "HP_0000652"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Sparse eyelashes is identified by the HPO ID",
+    "output": "HP_0000653"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Decreased light- and dark-adapted electroretinogram amplitude is identified by the HPO ID",
+    "output": "HP_0000654"
+  },
+  {
+    "input": "The Human Phenotype Ontology term obsolete Vitreoretinal degeneration is identified by the HPO ID",
+    "output": "HP_0000655"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Ectropion is identified by the HPO ID",
+    "output": "HP_0000656"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Oculomotor apraxia is identified by the HPO ID",
+    "output": "HP_0000657"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Eyelid apraxia is identified by the HPO ID",
+    "output": "HP_0000658"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Peters anomaly is identified by the HPO ID",
+    "output": "HP_0000659"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Lipemia retinalis is identified by the HPO ID",
+    "output": "HP_0000660"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Palpebral fissure narrowing on adduction is identified by the HPO ID",
+    "output": "HP_0000661"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Nyctalopia is identified by the HPO ID",
+    "output": "HP_0000662"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Synophrys is identified by the HPO ID",
+    "output": "HP_0000664"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Horizontal nystagmus is identified by the HPO ID",
+    "output": "HP_0000666"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Phthisis bulbi is identified by the HPO ID",
+    "output": "HP_0000667"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hypodontia is identified by the HPO ID",
+    "output": "HP_0000668"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Carious teeth is identified by the HPO ID",
+    "output": "HP_0000670"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Anodontia is identified by the HPO ID",
+    "output": "HP_0000674"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Macrodontia of permanent maxillary central incisor is identified by the HPO ID",
+    "output": "HP_0000675"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the incisor is identified by the HPO ID",
+    "output": "HP_0000676"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Oligodontia is identified by the HPO ID",
+    "output": "HP_0000677"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Dental crowding is identified by the HPO ID",
+    "output": "HP_0000678"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Taurodontia is identified by the HPO ID",
+    "output": "HP_0000679"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Delayed eruption of primary teeth is identified by the HPO ID",
+    "output": "HP_0000680"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal dental enamel morphology is identified by the HPO ID",
+    "output": "HP_0000682"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Grayish enamel is identified by the HPO ID",
+    "output": "HP_0000683"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Delayed eruption of teeth is identified by the HPO ID",
+    "output": "HP_0000684"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hypoplasia of teeth is identified by the HPO ID",
+    "output": "HP_0000685"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Widely spaced teeth is identified by the HPO ID",
+    "output": "HP_0000687"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Dental malocclusion is identified by the HPO ID",
+    "output": "HP_0000689"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Agenesis of maxillary lateral incisor is identified by the HPO ID",
+    "output": "HP_0000690"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Microdontia is identified by the HPO ID",
+    "output": "HP_0000691"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Tooth malposition is identified by the HPO ID",
+    "output": "HP_0000692"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Odontodysplasia is identified by the HPO ID",
+    "output": "HP_0000694"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Natal tooth is identified by the HPO ID",
+    "output": "HP_0000695"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Delayed eruption of permanent teeth is identified by the HPO ID",
+    "output": "HP_0000696"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Conical tooth is identified by the HPO ID",
+    "output": "HP_0000698"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Diastema is identified by the HPO ID",
+    "output": "HP_0000699"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Periapical bone loss is identified by the HPO ID",
+    "output": "HP_0000700"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Dentinogenesis imperfecta is identified by the HPO ID",
+    "output": "HP_0000703"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Periodontitis is identified by the HPO ID",
+    "output": "HP_0000704"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Amelogenesis imperfecta is identified by the HPO ID",
+    "output": "HP_0000705"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Eruption failure is identified by the HPO ID",
+    "output": "HP_0000706"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the nervous system is identified by the HPO ID",
+    "output": "HP_0000707"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Atypical behavior is identified by the HPO ID",
+    "output": "HP_0000708"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Psychosis is identified by the HPO ID",
+    "output": "HP_0000709"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hyperorality is identified by the HPO ID",
+    "output": "HP_0000710"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Restlessness is identified by the HPO ID",
+    "output": "HP_0000711"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Emotional lability is identified by the HPO ID",
+    "output": "HP_0000712"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Agitation is identified by the HPO ID",
+    "output": "HP_0000713"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Depression is identified by the HPO ID",
+    "output": "HP_0000716"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Autism is identified by the HPO ID",
+    "output": "HP_0000717"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Aggressive behavior is identified by the HPO ID",
+    "output": "HP_0000718"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Inappropriate behavior is identified by the HPO ID",
+    "output": "HP_0000719"
+  },
+  {
+    "input": "The Human Phenotype Ontology term obsolete Mood swings is identified by the HPO ID",
+    "output": "HP_0000720"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Lack of spontaneous play is identified by the HPO ID",
+    "output": "HP_0000721"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Compulsive behaviors is identified by the HPO ID",
+    "output": "HP_0000722"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Restrictive behavior is identified by the HPO ID",
+    "output": "HP_0000723"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Psychotic episodes is identified by the HPO ID",
+    "output": "HP_0000725"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Dementia is identified by the HPO ID",
+    "output": "HP_0000726"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Frontal lobe dementia is identified by the HPO ID",
+    "output": "HP_0000727"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Impaired ability to form peer relationships is identified by the HPO ID",
+    "output": "HP_0000728"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Autistic behavior is identified by the HPO ID",
+    "output": "HP_0000729"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Inflexible adherence to routines is identified by the HPO ID",
+    "output": "HP_0000732"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal repetitive mannerisms is identified by the HPO ID",
+    "output": "HP_0000733"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Disinhibition is identified by the HPO ID",
+    "output": "HP_0000734"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Impaired social interactions is identified by the HPO ID",
+    "output": "HP_0000735"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Short attention span is identified by the HPO ID",
+    "output": "HP_0000736"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Irritability is identified by the HPO ID",
+    "output": "HP_0000737"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hallucinations is identified by the HPO ID",
+    "output": "HP_0000738"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Anxiety is identified by the HPO ID",
+    "output": "HP_0000739"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Episodic paroxysmal anxiety is identified by the HPO ID",
+    "output": "HP_0000740"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Apathy is identified by the HPO ID",
+    "output": "HP_0000741"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Self-mutilation is identified by the HPO ID",
+    "output": "HP_0000742"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Frontal release signs is identified by the HPO ID",
+    "output": "HP_0000743"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Low frustration tolerance is identified by the HPO ID",
+    "output": "HP_0000744"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Diminished motivation is identified by the HPO ID",
+    "output": "HP_0000745"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Delusions is identified by the HPO ID",
+    "output": "HP_0000746"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Inappropriate laughter is identified by the HPO ID",
+    "output": "HP_0000748"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Paroxysmal bursts of laughter is identified by the HPO ID",
+    "output": "HP_0000749"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Delayed speech and language development is identified by the HPO ID",
+    "output": "HP_0000750"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Personality changes is identified by the HPO ID",
+    "output": "HP_0000751"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hyperactivity is identified by the HPO ID",
+    "output": "HP_0000752"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Autism with high cognitive abilities is identified by the HPO ID",
+    "output": "HP_0000753"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Agoraphobia is identified by the HPO ID",
+    "output": "HP_0000756"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Lack of insight is identified by the HPO ID",
+    "output": "HP_0000757"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal nonverbal communicative behavior is identified by the HPO ID",
+    "output": "HP_0000758"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal peripheral nervous system morphology is identified by the HPO ID",
+    "output": "HP_0000759"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Decreased nerve conduction velocity is identified by the HPO ID",
+    "output": "HP_0000762"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Sensory neuropathy is identified by the HPO ID",
+    "output": "HP_0000763"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Peripheral axonal degeneration is identified by the HPO ID",
+    "output": "HP_0000764"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal thorax morphology is identified by the HPO ID",
+    "output": "HP_0000765"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal sternum morphology is identified by the HPO ID",
+    "output": "HP_0000766"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Pectus excavatum is identified by the HPO ID",
+    "output": "HP_0000767"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Pectus carinatum is identified by the HPO ID",
+    "output": "HP_0000768"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the breast is identified by the HPO ID",
+    "output": "HP_0000769"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Gynecomastia is identified by the HPO ID",
+    "output": "HP_0000771"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal rib morphology is identified by the HPO ID",
+    "output": "HP_0000772"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Short ribs is identified by the HPO ID",
+    "output": "HP_0000773"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Narrow chest is identified by the HPO ID",
+    "output": "HP_0000774"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the diaphragm is identified by the HPO ID",
+    "output": "HP_0000775"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Congenital diaphragmatic hernia is identified by the HPO ID",
+    "output": "HP_0000776"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal thymus morphology is identified by the HPO ID",
+    "output": "HP_0000777"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hypoplasia of the thymus is identified by the HPO ID",
+    "output": "HP_0000778"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal scapula morphology is identified by the HPO ID",
+    "output": "HP_0000782"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Primary amenorrhea is identified by the HPO ID",
+    "output": "HP_0000786"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Nephrolithiasis is identified by the HPO ID",
+    "output": "HP_0000787"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Infertility is identified by the HPO ID",
+    "output": "HP_0000789"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hematuria is identified by the HPO ID",
+    "output": "HP_0000790"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Uric acid nephrolithiasis is identified by the HPO ID",
+    "output": "HP_0000791"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Membranoproliferative glomerulonephritis is identified by the HPO ID",
+    "output": "HP_0000793"
+  },
+  {
+    "input": "The Human Phenotype Ontology term IgA deposition in the glomerulus is identified by the HPO ID",
+    "output": "HP_0000794"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the urethra is identified by the HPO ID",
+    "output": "HP_0000795"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Urethral obstruction is identified by the HPO ID",
+    "output": "HP_0000796"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Oligozoospermia is identified by the HPO ID",
+    "output": "HP_0000798"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Renal steatosis is identified by the HPO ID",
+    "output": "HP_0000799"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Cystic renal dysplasia is identified by the HPO ID",
+    "output": "HP_0000800"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Impotence is identified by the HPO ID",
+    "output": "HP_0000802"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Renal cortical cysts is identified by the HPO ID",
+    "output": "HP_0000803"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Xanthine nephrolithiasis is identified by the HPO ID",
+    "output": "HP_0000804"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Enuresis is identified by the HPO ID",
+    "output": "HP_0000805"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Glandular hypospadias is identified by the HPO ID",
+    "output": "HP_0000807"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Penoscrotal hypospadias is identified by the HPO ID",
+    "output": "HP_0000808"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Urinary tract atresia is identified by the HPO ID",
+    "output": "HP_0000809"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal external genitalia is identified by the HPO ID",
+    "output": "HP_0000811"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal internal genitalia is identified by the HPO ID",
+    "output": "HP_0000812"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Bicornuate uterus is identified by the HPO ID",
+    "output": "HP_0000813"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hypergonadotropic hypogonadism is identified by the HPO ID",
+    "output": "HP_0000815"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of Krebs cycle metabolism is identified by the HPO ID",
+    "output": "HP_0000816"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Reduced eye contact is identified by the HPO ID",
+    "output": "HP_0000817"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the endocrine system is identified by the HPO ID",
+    "output": "HP_0000818"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Diabetes mellitus is identified by the HPO ID",
+    "output": "HP_0000819"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the thyroid gland is identified by the HPO ID",
+    "output": "HP_0000820"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hypothyroidism is identified by the HPO ID",
+    "output": "HP_0000821"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hypertension is identified by the HPO ID",
+    "output": "HP_0000822"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Delayed puberty is identified by the HPO ID",
+    "output": "HP_0000823"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Decreased response to growth hormone stimulation test is identified by the HPO ID",
+    "output": "HP_0000824"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hyperinsulinemic hypoglycemia is identified by the HPO ID",
+    "output": "HP_0000825"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Precocious puberty is identified by the HPO ID",
+    "output": "HP_0000826"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the parathyroid gland is identified by the HPO ID",
+    "output": "HP_0000828"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hypoparathyroidism is identified by the HPO ID",
+    "output": "HP_0000829"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Anterior hypopituitarism is identified by the HPO ID",
+    "output": "HP_0000830"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Insulin-resistant diabetes mellitus is identified by the HPO ID",
+    "output": "HP_0000831"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Primary hypothyroidism is identified by the HPO ID",
+    "output": "HP_0000832"
+  },
+  {
+    "input": "The Human Phenotype Ontology term obsolete Glucose intolerance is identified by the HPO ID",
+    "output": "HP_0000833"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the adrenal glands is identified by the HPO ID",
+    "output": "HP_0000834"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Adrenal hypoplasia is identified by the HPO ID",
+    "output": "HP_0000835"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hyperthyroidism is identified by the HPO ID",
+    "output": "HP_0000836"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Increased circulating gonadotropin level is identified by the HPO ID",
+    "output": "HP_0000837"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Pituitary dwarfism is identified by the HPO ID",
+    "output": "HP_0000839"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Adrenogenital syndrome is identified by the HPO ID",
+    "output": "HP_0000840"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hyperactive renin-angiotensin system is identified by the HPO ID",
+    "output": "HP_0000841"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hyperinsulinemia is identified by the HPO ID",
+    "output": "HP_0000842"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hyperparathyroidism is identified by the HPO ID",
+    "output": "HP_0000843"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Elevated circulating growth hormone concentration is identified by the HPO ID",
+    "output": "HP_0000845"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Adrenal insufficiency is identified by the HPO ID",
+    "output": "HP_0000846"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of renin-angiotensin system is identified by the HPO ID",
+    "output": "HP_0000847"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Increased circulating renin level is identified by the HPO ID",
+    "output": "HP_0000848"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Adrenocortical abnormality is identified by the HPO ID",
+    "output": "HP_0000849"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Congenital hypothyroidism is identified by the HPO ID",
+    "output": "HP_0000851"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Pseudohypoparathyroidism is identified by the HPO ID",
+    "output": "HP_0000852"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Goiter is identified by the HPO ID",
+    "output": "HP_0000853"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Thyroid adenoma is identified by the HPO ID",
+    "output": "HP_0000854"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Insulin resistance is identified by the HPO ID",
+    "output": "HP_0000855"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Neonatal insulin-dependent diabetes mellitus is identified by the HPO ID",
+    "output": "HP_0000857"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Irregular menstruation is identified by the HPO ID",
+    "output": "HP_0000858"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hyperaldosteronism is identified by the HPO ID",
+    "output": "HP_0000859"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Parathyroid hypoplasia is identified by the HPO ID",
+    "output": "HP_0000860"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Central diabetes insipidus is identified by the HPO ID",
+    "output": "HP_0000863"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the hypothalamus-pituitary axis is identified by the HPO ID",
+    "output": "HP_0000864"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Euthyroid multinodular goiter is identified by the HPO ID",
+    "output": "HP_0000866"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Secondary hyperparathyroidism is identified by the HPO ID",
+    "output": "HP_0000867"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Decreased fertility in females is identified by the HPO ID",
+    "output": "HP_0000868"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Secondary amenorrhea is identified by the HPO ID",
+    "output": "HP_0000869"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Increased circulating prolactin concentration is identified by the HPO ID",
+    "output": "HP_0000870"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Panhypopituitarism is identified by the HPO ID",
+    "output": "HP_0000871"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hashimoto thyroiditis is identified by the HPO ID",
+    "output": "HP_0000872"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Diabetes insipidus is identified by the HPO ID",
+    "output": "HP_0000873"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Episodic hypertension is identified by the HPO ID",
+    "output": "HP_0000875"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Oligomenorrhea is identified by the HPO ID",
+    "output": "HP_0000876"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Insulin-resistant diabetes mellitus at puberty is identified by the HPO ID",
+    "output": "HP_0000877"
+  },
+  {
+    "input": "The Human Phenotype Ontology term 11 pairs of ribs is identified by the HPO ID",
+    "output": "HP_0000878"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Short sternum is identified by the HPO ID",
+    "output": "HP_0000879"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hypoplastic scapulae is identified by the HPO ID",
+    "output": "HP_0000882"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Thin ribs is identified by the HPO ID",
+    "output": "HP_0000883"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Prominent sternum is identified by the HPO ID",
+    "output": "HP_0000884"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Broad ribs is identified by the HPO ID",
+    "output": "HP_0000885"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Deformed rib cage is identified by the HPO ID",
+    "output": "HP_0000886"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Cupped ribs is identified by the HPO ID",
+    "output": "HP_0000887"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Horizontal ribs is identified by the HPO ID",
+    "output": "HP_0000888"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal clavicle morphology is identified by the HPO ID",
+    "output": "HP_0000889"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Long clavicles is identified by the HPO ID",
+    "output": "HP_0000890"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Cervical ribs is identified by the HPO ID",
+    "output": "HP_0000891"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Bifid ribs is identified by the HPO ID",
+    "output": "HP_0000892"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Bulging of the costochondral junction is identified by the HPO ID",
+    "output": "HP_0000893"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Short clavicles is identified by the HPO ID",
+    "output": "HP_0000894"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Lateral clavicle hook is identified by the HPO ID",
+    "output": "HP_0000895"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Rib exostoses is identified by the HPO ID",
+    "output": "HP_0000896"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Rachitic rosary is identified by the HPO ID",
+    "output": "HP_0000897"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Thickened ribs is identified by the HPO ID",
+    "output": "HP_0000900"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Rib fusion is identified by the HPO ID",
+    "output": "HP_0000902"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Flaring of rib cage is identified by the HPO ID",
+    "output": "HP_0000904"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Progressive clavicular acroosteolysis is identified by the HPO ID",
+    "output": "HP_0000905"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Anterior rib cupping is identified by the HPO ID",
+    "output": "HP_0000907"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Wide-cupped costochondral junctions is identified by the HPO ID",
+    "output": "HP_0000910"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Flat glenoid fossa is identified by the HPO ID",
+    "output": "HP_0000911"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Sprengel anomaly is identified by the HPO ID",
+    "output": "HP_0000912"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Posterior rib fusion is identified by the HPO ID",
+    "output": "HP_0000913"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Shield chest is identified by the HPO ID",
+    "output": "HP_0000914"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Pectus excavatum of inferior sternum is identified by the HPO ID",
+    "output": "HP_0000915"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Broad clavicles is identified by the HPO ID",
+    "output": "HP_0000916"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Superior pectus carinatum is identified by the HPO ID",
+    "output": "HP_0000768"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Scapular exostoses is identified by the HPO ID",
+    "output": "HP_0000918"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the costochondral junction is identified by the HPO ID",
+    "output": "HP_0000919"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Enlargement of the costochondral junction is identified by the HPO ID",
+    "output": "HP_0000920"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Missing ribs is identified by the HPO ID",
+    "output": "HP_0000921"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Posterior rib cupping is identified by the HPO ID",
+    "output": "HP_0000922"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Beaded ribs is identified by the HPO ID",
+    "output": "HP_0000923"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the skeletal system is identified by the HPO ID",
+    "output": "HP_0000924"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the vertebral column is identified by the HPO ID",
+    "output": "HP_0000925"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Platyspondyly is identified by the HPO ID",
+    "output": "HP_0000926"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of skeletal maturation is identified by the HPO ID",
+    "output": "HP_0000927"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal skull morphology is identified by the HPO ID",
+    "output": "HP_0000929"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Elevated imprint of the transverse sinuses is identified by the HPO ID",
+    "output": "HP_0000930"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Thinning and bulging of the posterior fossa bones is identified by the HPO ID",
+    "output": "HP_0000931"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal posterior cranial fossa morphology is identified by the HPO ID",
+    "output": "HP_0000932"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Posterior fossa cyst at the fourth ventricle is identified by the HPO ID",
+    "output": "HP_0000933"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Chondrocalcinosis is identified by the HPO ID",
+    "output": "HP_0000934"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Thickened cortex of long bones is identified by the HPO ID",
+    "output": "HP_0000935"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Osteopenia is identified by the HPO ID",
+    "output": "HP_0000938"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Osteoporosis is identified by the HPO ID",
+    "output": "HP_0000939"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal diaphysis morphology is identified by the HPO ID",
+    "output": "HP_0000940"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Short diaphyses is identified by the HPO ID",
+    "output": "HP_0000941"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Dysostosis multiplex is identified by the HPO ID",
+    "output": "HP_0000943"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal metaphysis morphology is identified by the HPO ID",
+    "output": "HP_0000944"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hypoplastic ilia is identified by the HPO ID",
+    "output": "HP_0000946"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Dumbbell-shaped long bone is identified by the HPO ID",
+    "output": "HP_0000947"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the skin is identified by the HPO ID",
+    "output": "HP_0000951"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Jaundice is identified by the HPO ID",
+    "output": "HP_0000952"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hyperpigmentation of the skin is identified by the HPO ID",
+    "output": "HP_0000953"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Single transverse palmar crease is identified by the HPO ID",
+    "output": "HP_0000954"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Acanthosis nigricans is identified by the HPO ID",
+    "output": "HP_0000956"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Cafe-au-lait spot is identified by the HPO ID",
+    "output": "HP_0000957"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Dry skin is identified by the HPO ID",
+    "output": "HP_0000958"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Sacral dimple is identified by the HPO ID",
+    "output": "HP_0000960"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Cyanosis is identified by the HPO ID",
+    "output": "HP_0000961"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hyperkeratosis is identified by the HPO ID",
+    "output": "HP_0000962"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Thin skin is identified by the HPO ID",
+    "output": "HP_0000963"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Eczema is identified by the HPO ID",
+    "output": "HP_0000964"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Cutis marmorata is identified by the HPO ID",
+    "output": "HP_0000965"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hypohidrosis is identified by the HPO ID",
+    "output": "HP_0000966"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Petechiae is identified by the HPO ID",
+    "output": "HP_0000967"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Ectodermal dysplasia is identified by the HPO ID",
+    "output": "HP_0000968"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Edema is identified by the HPO ID",
+    "output": "HP_0000969"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Anhidrosis is identified by the HPO ID",
+    "output": "HP_0000970"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal sweat gland morphology is identified by the HPO ID",
+    "output": "HP_0000971"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Palmoplantar hyperkeratosis is identified by the HPO ID",
+    "output": "HP_0000972"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Cutis laxa is identified by the HPO ID",
+    "output": "HP_0000973"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hyperextensible skin is identified by the HPO ID",
+    "output": "HP_0000974"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hyperhidrosis is identified by the HPO ID",
+    "output": "HP_0000975"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Eczematoid dermatitis is identified by the HPO ID",
+    "output": "HP_0000976"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Soft skin is identified by the HPO ID",
+    "output": "HP_0000977"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Bruising susceptibility is identified by the HPO ID",
+    "output": "HP_0000978"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Purpura is identified by the HPO ID",
+    "output": "HP_0000979"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Pallor is identified by the HPO ID",
+    "output": "HP_0000980"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Palmoplantar keratoderma is identified by the HPO ID",
+    "output": "HP_0000982"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Atypical scarring of skin is identified by the HPO ID",
+    "output": "HP_0000987"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Skin rash is identified by the HPO ID",
+    "output": "HP_0000988"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Pruritus is identified by the HPO ID",
+    "output": "HP_0000989"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Xanthomatosis is identified by the HPO ID",
+    "output": "HP_0000991"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Cutaneous photosensitivity is identified by the HPO ID",
+    "output": "HP_0000992"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Molluscoid pseudotumors is identified by the HPO ID",
+    "output": "HP_0000993"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Melanocytic nevus is identified by the HPO ID",
+    "output": "HP_0000995"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Facial capillary hemangioma is identified by the HPO ID",
+    "output": "HP_0000996"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Axillary freckling is identified by the HPO ID",
+    "output": "HP_0000997"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hypertrichosis is identified by the HPO ID",
+    "output": "HP_0000998"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Pyoderma is identified by the HPO ID",
+    "output": "HP_0000999"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of skin pigmentation is identified by the HPO ID",
+    "output": "HP_0001000"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of subcutaneous fat tissue is identified by the HPO ID",
+    "output": "HP_0001001"
+  },
+  {
+    "input": "The Human Phenotype Ontology term obsolete Decreased subcutaneous fat is identified by the HPO ID",
+    "output": "HP_0001002"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Multiple lentigines is identified by the HPO ID",
+    "output": "HP_0001003"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Lymphedema is identified by the HPO ID",
+    "output": "HP_0001004"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Dermatological manifestations of systemic disorders is identified by the HPO ID",
+    "output": "HP_0001005"
+  },
+  {
+    "input": "The Human Phenotype Ontology term obsolete Hypotrichosis is identified by the HPO ID",
+    "output": "HP_0001006"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hirsutism is identified by the HPO ID",
+    "output": "HP_0001007"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Accumulation of melanosomes in melanocytes is identified by the HPO ID",
+    "output": "HP_0001008"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Telangiectasia is identified by the HPO ID",
+    "output": "HP_0001009"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hypopigmentation of the skin is identified by the HPO ID",
+    "output": "HP_0001010"
+  },
+  {
+    "input": "The Human Phenotype Ontology term obsolete Diaphoresis (with pheochromocytoma) is identified by the HPO ID",
+    "output": "HP_0001011"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Multiple lipomas is identified by the HPO ID",
+    "output": "HP_0001012"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Eruptive xanthomas is identified by the HPO ID",
+    "output": "HP_0001013"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Angiokeratoma is identified by the HPO ID",
+    "output": "HP_0001014"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Prominent superficial veins is identified by the HPO ID",
+    "output": "HP_0001015"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Anemic pallor is identified by the HPO ID",
+    "output": "HP_0001017"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal palmar dermatoglyphics is identified by the HPO ID",
+    "output": "HP_0001018"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Erythroderma is identified by the HPO ID",
+    "output": "HP_0001019"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Albinism is identified by the HPO ID",
+    "output": "HP_0001022"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Skin dimple over apex of long bone angulation is identified by the HPO ID",
+    "output": "HP_0001024"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Urticaria is identified by the HPO ID",
+    "output": "HP_0001025"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Penetrating foot ulcers is identified by the HPO ID",
+    "output": "HP_0001026"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Soft, doughy skin is identified by the HPO ID",
+    "output": "HP_0001027"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hemangioma is identified by the HPO ID",
+    "output": "HP_0001028"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Poikiloderma is identified by the HPO ID",
+    "output": "HP_0001029"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Fragile skin is identified by the HPO ID",
+    "output": "HP_0001030"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Subcutaneous lipoma is identified by the HPO ID",
+    "output": "HP_0001031"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Absent distal interphalangeal creases is identified by the HPO ID",
+    "output": "HP_0001032"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Facial flushing after alcohol intake is identified by the HPO ID",
+    "output": "HP_0001033"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hypermelanotic macule is identified by the HPO ID",
+    "output": "HP_0001034"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Parakeratosis is identified by the HPO ID",
+    "output": "HP_0001036"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Warfarin-induced skin necrosis is identified by the HPO ID",
+    "output": "HP_0001038"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Atheroeruptive xanthoma is identified by the HPO ID",
+    "output": "HP_0001039"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Multiple pterygia is identified by the HPO ID",
+    "output": "HP_0001040"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Facial erythema is identified by the HPO ID",
+    "output": "HP_0001041"
+  },
+  {
+    "input": "The Human Phenotype Ontology term High axial triradius is identified by the HPO ID",
+    "output": "HP_0001042"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Prominent scalp veins is identified by the HPO ID",
+    "output": "HP_0001043"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Vitiligo is identified by the HPO ID",
+    "output": "HP_0001045"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Intermittent jaundice is identified by the HPO ID",
+    "output": "HP_0001046"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Atopic dermatitis is identified by the HPO ID",
+    "output": "HP_0001047"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Cavernous hemangioma is identified by the HPO ID",
+    "output": "HP_0001048"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Absent dorsal skin creases over affected joints is identified by the HPO ID",
+    "output": "HP_0001049"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Plethora is identified by the HPO ID",
+    "output": "HP_0001050"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Seborrheic dermatitis is identified by the HPO ID",
+    "output": "HP_0001051"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Nevus flammeus is identified by the HPO ID",
+    "output": "HP_0001052"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hypopigmented skin patches is identified by the HPO ID",
+    "output": "HP_0001053"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Numerous nevi is identified by the HPO ID",
+    "output": "HP_0001054"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Erysipelas is identified by the HPO ID",
+    "output": "HP_0001055"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Milia is identified by the HPO ID",
+    "output": "HP_0001056"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Aplasia cutis congenita is identified by the HPO ID",
+    "output": "HP_0001057"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Poor wound healing is identified by the HPO ID",
+    "output": "HP_0001058"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Pterygium is identified by the HPO ID",
+    "output": "HP_0001059"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Axillary pterygium is identified by the HPO ID",
+    "output": "HP_0001060"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Acne is identified by the HPO ID",
+    "output": "HP_0001061"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Atypical nevus is identified by the HPO ID",
+    "output": "HP_0001062"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Acrocyanosis is identified by the HPO ID",
+    "output": "HP_0001063"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Striae distensae is identified by the HPO ID",
+    "output": "HP_0001065"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Neurofibroma is identified by the HPO ID",
+    "output": "HP_0001067"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Episodic hyperhidrosis is identified by the HPO ID",
+    "output": "HP_0001069"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Mottled pigmentation is identified by the HPO ID",
+    "output": "HP_0001070"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Angiokeratoma corporis diffusum is identified by the HPO ID",
+    "output": "HP_0001071"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Thickened skin is identified by the HPO ID",
+    "output": "HP_0001072"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Cigarette-paper scars is identified by the HPO ID",
+    "output": "HP_0001073"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Atypical nevi in non-sun exposed areas is identified by the HPO ID",
+    "output": "HP_0001074"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Atrophic scars is identified by the HPO ID",
+    "output": "HP_0001075"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Glabellar hemangioma is identified by the HPO ID",
+    "output": "HP_0001076"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Biliary tract abnormality is identified by the HPO ID",
+    "output": "HP_0001080"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Cholelithiasis is identified by the HPO ID",
+    "output": "HP_0001081"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Cholecystitis is identified by the HPO ID",
+    "output": "HP_0001082"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Ectopia lentis is identified by the HPO ID",
+    "output": "HP_0001083"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Corneal arcus is identified by the HPO ID",
+    "output": "HP_0001084"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Papilledema is identified by the HPO ID",
+    "output": "HP_0001085"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Developmental glaucoma is identified by the HPO ID",
+    "output": "HP_0001087"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Brushfield spots is identified by the HPO ID",
+    "output": "HP_0001088"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Iris atrophy is identified by the HPO ID",
+    "output": "HP_0001089"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormally large globe is identified by the HPO ID",
+    "output": "HP_0001090"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Absent lacrimal punctum is identified by the HPO ID",
+    "output": "HP_0001092"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Optic nerve dysplasia is identified by the HPO ID",
+    "output": "HP_0001093"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Iridocyclitis is identified by the HPO ID",
+    "output": "HP_0001094"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hypertensive retinopathy is identified by the HPO ID",
+    "output": "HP_0001095"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Keratoconjunctivitis is identified by the HPO ID",
+    "output": "HP_0001096"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Keratoconjunctivitis sicca is identified by the HPO ID",
+    "output": "HP_0001097"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal fundus morphology is identified by the HPO ID",
+    "output": "HP_0001098"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Fundus atrophy is identified by the HPO ID",
+    "output": "HP_0001099"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Heterochromia iridis is identified by the HPO ID",
+    "output": "HP_0001100"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Iritis is identified by the HPO ID",
+    "output": "HP_0001101"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Angioid streaks of the fundus is identified by the HPO ID",
+    "output": "HP_0001102"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal macular morphology is identified by the HPO ID",
+    "output": "HP_0001103"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Macular hypoplasia is identified by the HPO ID",
+    "output": "HP_0001104"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Retinal atrophy is identified by the HPO ID",
+    "output": "HP_0001105"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Periorbital hyperpigmentation is identified by the HPO ID",
+    "output": "HP_0001106"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Ocular albinism is identified by the HPO ID",
+    "output": "HP_0001107"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Leber optic atrophy is identified by the HPO ID",
+    "output": "HP_0001112"
+  },
+  {
+    "input": "The Human Phenotype Ontology term obsolete Early cataracts is identified by the HPO ID",
+    "output": "HP_0001113"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Xanthelasma is identified by the HPO ID",
+    "output": "HP_0001114"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Posterior polar cataract is identified by the HPO ID",
+    "output": "HP_0001115"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Macular coloboma is identified by the HPO ID",
+    "output": "HP_0001116"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Sudden loss of visual acuity is identified by the HPO ID",
+    "output": "HP_0001117"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Juvenile cataract is identified by the HPO ID",
+    "output": "HP_0001118"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Keratoglobus is identified by the HPO ID",
+    "output": "HP_0001119"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of corneal size is identified by the HPO ID",
+    "output": "HP_0001120"
+  },
+  {
+    "input": "The Human Phenotype Ontology term obsolete Aplasia/Hypoplasia of the choroid is identified by the HPO ID",
+    "output": "HP_0001122"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Visual field defect is identified by the HPO ID",
+    "output": "HP_0001123"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Transient unilateral blurring of vision is identified by the HPO ID",
+    "output": "HP_0001125"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Cryptophthalmos is identified by the HPO ID",
+    "output": "HP_0001126"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Trichiasis is identified by the HPO ID",
+    "output": "HP_0001128"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Large central visual field defect is identified by the HPO ID",
+    "output": "HP_0001129"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Corneal dystrophy is identified by the HPO ID",
+    "output": "HP_0001131"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Lens subluxation is identified by the HPO ID",
+    "output": "HP_0001132"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Constriction of peripheral visual field is identified by the HPO ID",
+    "output": "HP_0001133"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Anterior polar cataract is identified by the HPO ID",
+    "output": "HP_0001134"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Chorioretinal dystrophy is identified by the HPO ID",
+    "output": "HP_0001135"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Retinal arteriolar tortuosity is identified by the HPO ID",
+    "output": "HP_0001136"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Alternating esotropia is identified by the HPO ID",
+    "output": "HP_0001137"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Optic neuropathy is identified by the HPO ID",
+    "output": "HP_0001138"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Choroideremia is identified by the HPO ID",
+    "output": "HP_0001139"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Limbal dermoid is identified by the HPO ID",
+    "output": "HP_0001140"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Severely reduced visual acuity is identified by the HPO ID",
+    "output": "HP_0001141"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Lenticonus is identified by the HPO ID",
+    "output": "HP_0001142"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Orbital cyst is identified by the HPO ID",
+    "output": "HP_0001144"
+  },
+  {
+    "input": "The Human Phenotype Ontology term obsolete Chorioretinopathy is identified by the HPO ID",
+    "output": "HP_0001145"
+  },
+  {
+    "input": "The Human Phenotype Ontology term obsolete Pigmentary retinal degeneration is identified by the HPO ID",
+    "output": "HP_0001146"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Retinal exudate is identified by the HPO ID",
+    "output": "HP_0001147"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Lattice corneal dystrophy is identified by the HPO ID",
+    "output": "HP_0001149"
+  },
+  {
+    "input": "The Human Phenotype Ontology term obsolete Choroidal sclerosis is identified by the HPO ID",
+    "output": "HP_0001150"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Impaired horizontal smooth pursuit is identified by the HPO ID",
+    "output": "HP_0001151"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Saccadic smooth pursuit is identified by the HPO ID",
+    "output": "HP_0001152"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Septate vagina is identified by the HPO ID",
+    "output": "HP_0001153"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the hand is identified by the HPO ID",
+    "output": "HP_0001155"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Brachydactyly is identified by the HPO ID",
+    "output": "HP_0001156"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Syndactyly is identified by the HPO ID",
+    "output": "HP_0001159"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hand polydactyly is identified by the HPO ID",
+    "output": "HP_0001161"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Postaxial hand polydactyly is identified by the HPO ID",
+    "output": "HP_0001162"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the metacarpal bones is identified by the HPO ID",
+    "output": "HP_0001163"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Arachnodactyly is identified by the HPO ID",
+    "output": "HP_0001166"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal finger morphology is identified by the HPO ID",
+    "output": "HP_0001167"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Broad palm is identified by the HPO ID",
+    "output": "HP_0001169"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Split hand is identified by the HPO ID",
+    "output": "HP_0001171"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal thumb morphology is identified by the HPO ID",
+    "output": "HP_0001172"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Large hands is identified by the HPO ID",
+    "output": "HP_0001176"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Preaxial hand polydactyly is identified by the HPO ID",
+    "output": "HP_0001177"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Ulnar claw is identified by the HPO ID",
+    "output": "HP_0001178"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hand oligodactyly is identified by the HPO ID",
+    "output": "HP_0001180"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Adducted thumb is identified by the HPO ID",
+    "output": "HP_0001181"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Tapered finger is identified by the HPO ID",
+    "output": "HP_0001182"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hyperextensibility of the finger joints is identified by the HPO ID",
+    "output": "HP_0001187"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hand clenching is identified by the HPO ID",
+    "output": "HP_0001188"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal carpal morphology is identified by the HPO ID",
+    "output": "HP_0001191"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Ulnar deviation of the hand or of fingers of the hand is identified by the HPO ID",
+    "output": "HP_0001193"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormalities of placenta or umbilical cord is identified by the HPO ID",
+    "output": "HP_0001194"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Single umbilical artery is identified by the HPO ID",
+    "output": "HP_0001195"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Short umbilical cord is identified by the HPO ID",
+    "output": "HP_0001196"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of prenatal development or birth is identified by the HPO ID",
+    "output": "HP_0001197"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Triphalangeal thumb is identified by the HPO ID",
+    "output": "HP_0001199"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Distal symphalangism of hands is identified by the HPO ID",
+    "output": "HP_0001204"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal fingertip morphology is identified by the HPO ID",
+    "output": "HP_0001211"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Prominent fingertip pads is identified by the HPO ID",
+    "output": "HP_0001212"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Camptodactyly of 2nd-5th fingers is identified by the HPO ID",
+    "output": "HP_0001215"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Delayed ossification of carpal bones is identified by the HPO ID",
+    "output": "HP_0001216"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Clubbing is identified by the HPO ID",
+    "output": "HP_0001217"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Autoamputation is identified by the HPO ID",
+    "output": "HP_0001218"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Interphalangeal joint contracture of finger is identified by the HPO ID",
+    "output": "HP_0001220"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Spatulate thumbs is identified by the HPO ID",
+    "output": "HP_0001222"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Pointed proximal second through fifth metacarpals is identified by the HPO ID",
+    "output": "HP_0001223"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Wrist swelling is identified by the HPO ID",
+    "output": "HP_0001225"
+  },
+  {
+    "input": "The Human Phenotype Ontology term obsolete Acral ulceration and osteomyelitis leading to autoamputation of digits is identified by the HPO ID",
+    "output": "HP_0001226"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormality of the thenar eminence is identified by the HPO ID",
+    "output": "HP_0001227"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Broad metacarpals is identified by the HPO ID",
+    "output": "HP_0001230"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal fingernail morphology is identified by the HPO ID",
+    "output": "HP_0001231"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Nail bed telangiectasia is identified by the HPO ID",
+    "output": "HP_0001232"
+  },
+  {
+    "input": "The Human Phenotype Ontology term 2-3 finger syndactyly is identified by the HPO ID",
+    "output": "HP_0006101"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hitchhiker thumb is identified by the HPO ID",
+    "output": "HP_0001234"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Slender finger is identified by the HPO ID",
+    "output": "HP_0001238"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Wrist flexion contracture is identified by the HPO ID",
+    "output": "HP_0001239"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Capitate-hamate fusion is identified by the HPO ID",
+    "output": "HP_0001241"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Small thenar eminence is identified by the HPO ID",
+    "output": "HP_0001245"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Short tubular bones of the hand is identified by the HPO ID",
+    "output": "HP_0001248"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Intellectual disability is identified by the HPO ID",
+    "output": "HP_0001249"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Seizure is identified by the HPO ID",
+    "output": "HP_0001250"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Ataxia is identified by the HPO ID",
+    "output": "HP_0001251"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hypotonia is identified by the HPO ID",
+    "output": "HP_0001252"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Lethargy is identified by the HPO ID",
+    "output": "HP_0001254"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Intellectual disability, mild is identified by the HPO ID",
+    "output": "HP_0001256"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Spasticity is identified by the HPO ID",
+    "output": "HP_0001257"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Spastic paraplegia is identified by the HPO ID",
+    "output": "HP_0001258"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Coma is identified by the HPO ID",
+    "output": "HP_0001259"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Dysarthria is identified by the HPO ID",
+    "output": "HP_0001260"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Excessive daytime somnolence is identified by the HPO ID",
+    "output": "HP_0001262"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Global developmental delay is identified by the HPO ID",
+    "output": "HP_0001263"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Spastic diplegia is identified by the HPO ID",
+    "output": "HP_0001264"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hyporeflexia is identified by the HPO ID",
+    "output": "HP_0001265"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Choreoathetosis is identified by the HPO ID",
+    "output": "HP_0001266"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Mental deterioration is identified by the HPO ID",
+    "output": "HP_0001268"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hemiparesis is identified by the HPO ID",
+    "output": "HP_0001269"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Motor delay is identified by the HPO ID",
+    "output": "HP_0001270"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Polyneuropathy is identified by the HPO ID",
+    "output": "HP_0001271"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Cerebellar atrophy is identified by the HPO ID",
+    "output": "HP_0001272"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Abnormal corpus callosum morphology is identified by the HPO ID",
+    "output": "HP_0001273"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Agenesis of corpus callosum is identified by the HPO ID",
+    "output": "HP_0001274"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Hypertonia is identified by the HPO ID",
+    "output": "HP_0001276"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Orthostatic hypotension is identified by the HPO ID",
+    "output": "HP_0001278"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Syncope is identified by the HPO ID",
+    "output": "HP_0001279"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Tetany is identified by the HPO ID",
+    "output": "HP_0001281"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Bulbar palsy is identified by the HPO ID",
+    "output": "HP_0001283"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Areflexia is identified by the HPO ID",
+    "output": "HP_0001284"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Spastic tetraparesis is identified by the HPO ID",
+    "output": "HP_0001285"
+  },
+  {
+    "input": "The Human Phenotype Ontology term Meningitis is identified by the HPO ID",
+    "output": "HP_0001287"
+  }
+]
