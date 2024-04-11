@@ -100,13 +100,13 @@ def jaccard_index(term1, term2):
     union = len(set1.union(set2))
     return intersection / union if union != 0 else 0
 
-def query_single_term(index_dir, query_name, top_k):
+def query_single_term(index_dir, query_name, group, top_k):
     '''
     query a term and get best matched hp_id
     '''
     index = open_dir(index_dir)
     # Use OrGroup instead. if AndGroup is used, very few hits will be returned.
-    query_parser = QueryParser('hp_desc', schema=index.schema, group=OrGroup)
+    query_parser = QueryParser('hp_desc', schema=index.schema, group=group)
     searcher = index.searcher(weighting=scoring.BM25F(B=10, K1=0.1))
     query = query_parser.parse('{}'.format(query_name))
     # calculate # of match first 
@@ -162,7 +162,7 @@ def remove_numbers_and_decimal(input_string):
     # Use regular expression to remove all numbers and decimal points
     return re.sub(r'[\d\.]+', '', input_string)
 
-def execute_pipeline(input_json, output_json):
+def execute_pipeline(input_json, output_json, group):
     '''
     pipeline for lucene benchmark
     '''
@@ -183,7 +183,7 @@ def execute_pipeline(input_json, output_json):
             # Also very strange, it works well on the server (ubuntu 20.04) but not on my local machine (MacOS 13.0)
             output = ''
         else:
-            output = query_single_term(index_dir,term, top_k)
+            output = query_single_term(index_dir,term, group, top_k)
         lucene_list.append({'input': input, 'output': output})
        
     json.dump(lucene_list, open(output_json,'w'), indent=2)
@@ -194,11 +194,12 @@ def execute_pipeline(input_json, output_json):
 # create index.
 synonym_dict_list = load_hp_synonyms()
 index_dir = './hpo_index'
-create_index(index_dir, synonym_dict_list)
-create_positive_control_json(synonym_dict_list)
-# execute_pipeline('./positive_control.json', 'positive_control_lucene.json')
-# execute_pipeline('./gpt_test.json', 'gpt_test_lucene.json')
-# execute_pipeline('./typo_part6.json', 'single_typo_lucene.json')
-execute_pipeline('./complextypo_part6.json', 'complex_typo_lucene.json')
-# execute_pipeline('./snomed_comparison.json', 'snomed_comparison_lucene.json')
+group = AndGroup
+# create_index(index_dir, synonym_dict_list)
+# create_positive_control_json(synonym_dict_list)
+execute_pipeline('./positive_control.json', 'positive_control_lucene.json', group)
+execute_pipeline('./gpt_test.json', 'gpt_test_lucene.json', group)
+execute_pipeline('./typo_part6.json', 'single_typo_lucene.json', group)
+execute_pipeline('./complextypo_part6.json', 'complex_typo_lucene.json', group)
+execute_pipeline('./snomed_comparison.json', 'snomed_comparison_lucene.json', group)
 

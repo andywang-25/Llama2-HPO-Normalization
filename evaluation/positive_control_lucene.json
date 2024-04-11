@@ -1709,7 +1709,7 @@
   },
   {
     "input": "The Human Phenotype Ontology term Cone/cone-rod dystrophy is identified by the HPO ID",
-    "output": "HP_0000548"
+    "output": "HP_0000510"
   },
   {
     "input": "The Human Phenotype Ontology term Abnormal conjugate eye movement is identified by the HPO ID",
@@ -2905,7 +2905,7 @@
   },
   {
     "input": "The Human Phenotype Ontology term Superior pectus carinatum is identified by the HPO ID",
-    "output": "HP_0000768"
+    "output": "HP_0000917"
   },
   {
     "input": "The Human Phenotype Ontology term Scapular exostoses is identified by the HPO ID",
@@ -3801,7 +3801,7 @@
   },
   {
     "input": "The Human Phenotype Ontology term Camptodactyly of 2nd-5th fingers is identified by the HPO ID",
-    "output": "HP_0001215"
+    "output": ""
   },
   {
     "input": "The Human Phenotype Ontology term Delayed ossification of carpal bones is identified by the HPO ID",
@@ -3853,7 +3853,7 @@
   },
   {
     "input": "The Human Phenotype Ontology term 2-3 finger syndactyly is identified by the HPO ID",
-    "output": "HP_0006101"
+    "output": "HP_0001233"
   },
   {
     "input": "The Human Phenotype Ontology term Hitchhiker thumb is identified by the HPO ID",
