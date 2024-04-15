@@ -35,8 +35,9 @@ The command line script requires three parameters at minimum:
 3. At least one term to be normalized into its HPO identifier 
 
 Example output: 
-> Output:<s> The Human Phenotype Ontology term hearing loss is identified by the HPO ID HP:0000365</s>
-> Output:<s> The Human Phenotype Ontology term hearing impairment is identified by the HPO ID HP:0000365</s>
+> Output:\<s\> The Human Phenotype Ontology term hearing loss is identified by the HPO ID HP:0000365\</s\>
+
+> Output:\<s\> The Human Phenotype Ontology term hearing impairment is identified by the HPO ID HP:0000365\</s\>
 
 ## Case study
 
