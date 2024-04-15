@@ -30,13 +30,13 @@ Within the Jupyter Notebook, users can use the fine-tuned model by inputting the
 If you do not want to use Jupyter Notebook, you can use the "inference_HPO.py" script, which can be executed in the command line. An example is shown below: 
 > python inference_HPO.py base_model_directory lora_parameters_directory "hearing loss" "hearing impairment"
 The command line script requires three parameters at minimum:
-1. The directory of the Llama2 base model
-2. The directory of the fine-tuned LoRA model
+1. The directory of the Llama2 base model (can be downloaded from Meta: https://llama.meta.com/llama-downloads)
+2. The directory of the fine-tuned LoRA model (can be downloaded here: https://github.com/andywang-25/Llama2-HPO-Normalization/releases/tag/v0.0.2)
 3. At least one term to be normalized into its HPO identifier 
 
-
-
-
+Example output: 
+> Output:<s> The Human Phenotype Ontology term hearing loss is identified by the HPO ID HP:0000365</s>
+> Output:<s> The Human Phenotype Ontology term hearing impairment is identified by the HPO ID HP:0000365</s>
 
 ## Case study
 
