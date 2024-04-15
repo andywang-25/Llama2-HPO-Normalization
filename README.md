@@ -55,4 +55,3 @@ Some clinical phenotypes are extracted from the description above and then norma
 
 Wang A, Yang J, Liu C, Weng C. Fine-tuning Large Language Models for Rare Disease Concept Normalization. bioRxiv 2023.12.28.573586; doi: https://doi.org/10.1101/2023.12.28.573586
 
-Shi L, Li B, Huang Y, Ling X, Liu T, Lyon GJ, Xu A, Wang K. "Genotype-first" approaches on a curious case of idiopathic progressive cognitive decline. BMC Med Genomics. 2014 Dec 3;7:66. doi: 10.1186/s12920-014-0066-9. PMID: 25466957; PMCID: PMC4267425.
