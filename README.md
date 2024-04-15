@@ -9,7 +9,8 @@ Clinical concept extraction and normalization from clinical narratives remain a 
 Below is a brief summary of how to set up the Llama2 environment. The Juypter Notebook file contains more detailed instructions. 
 
 ```
-conda create --name llama python=3.10 conda activate llama pip install git+https://github.com/huggingface/transformers.git pip install git+https://github.com/huggingface/peft.git 925 pip install git+https://github.com/huggingface/accelerate.git 926 pip install -q -U trl 927 pip install -q trl 928 pip install -U datasets 929 pip install -U bitsandbytes 930 pip install -U einops 931 pip install -U wandb 932 pip install --user ipykernal 933 pip install --user ipykernel 934 python -m ipykernel install --user --name=llama
+ conda create --name llama python=3.10
+conda activate llama pip install git+https://github.com/huggingface/transformers.git pip install git+https://github.com/huggingface/peft.git 925 pip install git+https://github.com/huggingface/accelerate.git 926 pip install -q -U trl 927 pip install -q trl 928 pip install -U datasets 929 pip install -U bitsandbytes 930 pip install -U einops 931 pip install -U wandb 932 pip install --user ipykernal 933 pip install --user ipykernel 934 python -m ipykernel install --user --name=llama
 ```
 
 After executing the segment above, you can open Jupyter Notebook and select the "llama" kernel to run the notebook. 
