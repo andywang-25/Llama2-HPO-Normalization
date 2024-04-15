@@ -23,14 +23,16 @@ pip install --user ipykernel
 python -m ipykernel install --user --name=llama
 ```
 
-After executing the segment above, you can open Jupyter Notebook and select the "llama" kernel to run the notebook. 
+After executing the segment above, you can open Jupyter Notebook (HPO_Model_Github.ipynb) and select the "llama" kernel to run the notebook. The Juypter Notebook has more detailed instructions on how to use the model. 
 
 Within the Jupyter Notebook, users can use the fine-tuned model by inputting the template prompt: "The Human Phenotype Ontology term [concept name] is identified by the HPO ID HP: ." For example, to normalize the term "Aneurysm," the input would be: "The Human Phenotype Ontology term Vascular Dilatation is identified by the HPO ID HP: ."
 
+
 If you do not want to use Jupyter Notebook, you can use the "inference_HPO.py" script, which can be executed in the command line. An example is shown below: 
 > python inference_HPO.py base_model_directory lora_parameters_directory "hearing loss" "hearing impairment"
+
 The command line script requires three parameters at minimum:
-1. The directory of the Llama2 base model (can be downloaded from Meta: https://llama.meta.com/llama-downloads)
+1. The directory of the Llama2 base model (can be downloaded from Meta for free: https://llama.meta.com/llama-downloads)
 2. The directory of the fine-tuned LoRA model (can be downloaded here: https://github.com/andywang-25/Llama2-HPO-Normalization/releases/tag/v0.0.2)
 3. At least one term to be normalized into its HPO identifier 
 
