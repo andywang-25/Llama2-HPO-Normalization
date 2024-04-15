@@ -9,13 +9,33 @@ Clinical concept extraction and normalization from clinical narratives remain a 
 Below is a brief summary of how to set up the Llama2 environment. The Juypter Notebook file contains more detailed instructions. 
 
 ```
- conda create --name llama python=3.10
-conda activate llama pip install git+https://github.com/huggingface/transformers.git pip install git+https://github.com/huggingface/peft.git 925 pip install git+https://github.com/huggingface/accelerate.git 926 pip install -q -U trl 927 pip install -q trl 928 pip install -U datasets 929 pip install -U bitsandbytes 930 pip install -U einops 931 pip install -U wandb 932 pip install --user ipykernal 933 pip install --user ipykernel 934 python -m ipykernel install --user --name=llama
+conda create --name llama python=3.10
+conda activate llama
+pip install git+https://github.com/huggingface/transformers.git
+pip install git+https://github.com/huggingface/peft.git
+pip install git+https://github.com/huggingface/accelerate.git
+pip install -q trl
+pip install -U datasets
+pip install -U bitsandbytes
+pip install -U einops
+pip install -U wandb
+pip install --user ipykernel
+python -m ipykernel install --user --name=llama
 ```
 
 After executing the segment above, you can open Jupyter Notebook and select the "llama" kernel to run the notebook. 
 
-Within the Juypter Notebook, users can use the fine-tuned model by inputting the template prompt: "The Human Phenotype Ontology term [concept name] is identified by the HPO ID ." For example, to normalize the term "Aneurysm," the input would be: "The Human Phenotype Ontology term Vascular Dilatation is identified by the HPO ID ."
+Within the Jupyter Notebook, users can use the fine-tuned model by inputting the template prompt: "The Human Phenotype Ontology term [concept name] is identified by the HPO ID HP: ." For example, to normalize the term "Aneurysm," the input would be: "The Human Phenotype Ontology term Vascular Dilatation is identified by the HPO ID HP: ."
+
+If you do not want to use Jupyter Notebook, you can use the "inference_HPO.py" script, which can be executed in the command line. An example is shown below: 
+> python inference_HPO.py base_model_directory lora_parameters_directory "hearing loss" "hearing impairment"
+The command line script requires three parameters at minimum:
+1. The directory of the Llama2 base model
+2. The directory of the fine-tuned LoRA model
+3. At least one term to be normalized into its HPO identifier 
+
+
+
 
 
 ## Case study
