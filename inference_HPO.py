@@ -59,3 +59,47 @@ model = PeftModel.from_pretrained(
             torch_dtype=torch.float16,
         )
 
+tokenizer = LlamaTokenizer.from_pretrained(BASE_MODEL)
+
+model.config.pad_token_id = tokenizer.pad_token_id = 0  # unk
+model.config.bos_token_id = 1
+model.config.eos_token_id = 2
+
+from transformers import GenerationConfig
+generation_config = GenerationConfig(
+            temperature=0.1,
+            top_p=0.5,
+            do_sample=True
+#             top_k=40,
+#             num_beams=4,
+#             **kwargs,
+#             bad_words_ids = [[2]]
+        )
+
+print("inputting and testing prompts now...")
+
+for i in range(3, len(prompts)): #loop through list of concepts to be tested
+    disease_name = prompts[i] #get disease name 
+    print(f"processing concept: {disease_name}")
+
+
+    prompt = f"""The Human Phenotype Ontology term {disease_name} is identified by the HPO ID HP:"""
+
+    inputs = tokenizer(prompt, return_tensors="pt")
+    input_ids = inputs["input_ids"].to('cuda')
+
+    with torch.no_grad():
+        generation_output = model.generate(
+            input_ids=input_ids,
+            generation_config=generation_config,
+            return_dict_in_generate=True,
+            output_scores=True,
+            max_new_tokens=20,
+        )
+    #generation_output #generate answer 
+    s = generation_output.sequences[0]
+    output = tokenizer.decode(s) #decode into string 
+
+    print(f"\nOutput:{output}")
+                                                   
+
