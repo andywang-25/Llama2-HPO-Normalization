@@ -55,5 +55,4 @@ Some clinical phenotypes are extracted from the description above and then norma
 
 ## Reference
 
-Wang A, Yang J, Liu C, Weng C. Fine-tuning Large Language Models for Rare Disease Concept Normalization. bioRxiv 2023.12.28.573586; doi: https://doi.org/10.1101/2023.12.28.573586
-
+Andy Wang, Cong Liu, Jingye Yang, Chunhua Weng, Fine-tuning large language models for rare disease concept normalization, Journal of the American Medical Informatics Association, Volume 31, Issue 9, September 2024, Pages 2076–2083, https://doi.org/10.1093/jamia/ocae133
